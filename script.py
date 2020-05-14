@@ -15,4 +15,4 @@ c = car()
 print(str(c.wheel) + ' : ' + str(c.door))
 
 name = input("name is: ")
-print(name)
+print(name + 'hello')
